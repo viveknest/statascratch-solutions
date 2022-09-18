@@ -3,6 +3,10 @@
 - These notebooks were a part of the articles written by me for StrataScratch. 
 - My blogs on StrataScratch.com
 
+Pandas Interview Questions for Data Science
+https://www.stratascratch.com/blog/python-pandas-interview-questions-for-data-science
+
+
 SQL Aggregate Functions
 https://www.stratascratch.com/blog/sql-aggregate-functions-interview-questions
 
