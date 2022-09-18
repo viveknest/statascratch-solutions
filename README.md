@@ -35,11 +35,13 @@ https://www.stratascratch.com/blog/top-30-python-interview-questions-and-answers
 NumPy for Data Science
 
 Part 1: https://www.stratascratch.com/blog/numpy-for-data-science-interviews/
+
 Part 2: https://www.stratascratch.com/blog/numpy-for-data-science-interviews-part-02/
 
 Pandas Interview Qs
 
 Part 1: https://www.stratascratch.com/blog/python-pandas-interview-questions-for-data-science/
+
 Part 2: https://www.stratascratch.com/blog/python-pandas-interview-questions-for-data-science-part-2/
 
 Stats and Probability using Python 
