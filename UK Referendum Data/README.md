@@ -45,3 +45,15 @@ For this exercise, we will analyze the results of this referendum. We have split
 | ```No_official_mark```        | Number of ballots rejected because they did not have any offical mark  |
 | ```Voting_for_both_answers``` | Number of ballots rejected because they voted for both answers         |
 | ```Writing_or_mark```         | Number of ballots rejected because they had a writing instead of check |
+
+
+### Solve these problems
+- Without using the Pandas or NumPy libraries
+- Using the Pandas library
+
+
+The starter Notebook is available here
+
+The solutions without Pandas and NumPy
+Solutions with Pandas
+
