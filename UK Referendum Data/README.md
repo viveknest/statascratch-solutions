@@ -1,3 +1,8 @@
+# Introduction
+
+---
+
+
 The objective of this exercise is to check your ability to use basic Python Data Structures, control program flow and, define and use functions
 
 
@@ -12,7 +17,7 @@ The voters were asked to fill out their choices in a ballot paper.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2016_EU_Referendum_Ballot_Paper.svg/1280px-2016_EU_Referendum_Ballot_Paper.svg.png" width="450"/>
 
-
+---
 
 For this exercise, we will analyze the results of this referendum. We have split the full data into three files. 
 
@@ -46,14 +51,16 @@ For this exercise, we will analyze the results of this referendum. We have split
 | ```Voting_for_both_answers``` | Number of ballots rejected because they voted for both answers         |
 | ```Writing_or_mark```         | Number of ballots rejected because they had a writing instead of check |
 
+---
 
 ### Solve these problems
+
 - Without using the Pandas or NumPy libraries
 - Using the Pandas library
 
 
-The starter Notebook is available here
+The starter Notebook is available **[here](https://github.com/viveknest/statascratch-solutions/blob/main/UK%20Referendum%20Data/StrataScratch%20Python%20Coding%20Questions%20Starter.ipynb)**.  
 
-The solutions without Pandas and NumPy
-Solutions with Pandas
+The solutions without Pandas and NumPy is available **[here](https://github.com/viveknest/statascratch-solutions/blob/main/UK%20Referendum%20Data/StrataScratch%20Python%20Coding%20Questions%20Solution%20wo%20Pandas%20NumPy.ipynb)**.  
+Solutions with Pandas is available **[here](https://github.com/viveknest/statascratch-solutions/blob/main/UK%20Referendum%20Data/StrataScratch%20Python%20Coding%20Questions%20Solution%20using%20Pandas.ipynb)**.  
 
